@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-brightiortsor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brightiortsor)](https://www.linkedin.com/in/brightiortsor) [![Twitter Badge](https://img.shields.io/badge/-@TheFineUncle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheFineUncle)](https://twitter.com/TheFineUncle)
 
-I'm a Frontend Developer who currently works at [Kinatech Innovative] as an Intern. I'm passionate about buidling new stuff, collaborating & sharing knowledge, web engineering, and a lot more.
+I'm a Frontend Developer who currently works at Kinatech Innovative as an Intern. I'm passionate about buidling new stuff, collaborating & sharing knowledge, web engineering, and a lot more.
 
 **Here's a quick summary about me**:
 
