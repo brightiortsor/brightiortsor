@@ -18,3 +18,6 @@ I am eager to continue learning and growing as a developer, and I am excited to 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Developer, or IT Support Staff (Intern or Junior level role).
 - 📫 You can contact me by emailing iortsor@gmail.com.
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=brightiortsor&show_icons=true&include_all_commits=true&hide_border=true" alt="Bright's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightiortsor&langs_count=8&layout=compact&hide_border=true" alt="Bright's GitHub stats" /> |
+| ------------- | ------------- |
