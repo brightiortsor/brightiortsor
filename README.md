@@ -1,6 +1,6 @@
 # Hello there! Welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-brightiortsor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brightiortsor)](https://www.linkedin.com/in/brightiortsor) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1ca0f1?style=for-the-badge&logo=brightiortsor&logoColor=white&link=https://brightiortsor.netlify.app)](https://brightiortsor.netlify.app) [![Twitter Badge](https://img.shields.io/badge/-@TheFineUncle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheFineUncle)](https://twitter.com/TheFineUncle) 
+[![Linkedin Badge](https://img.shields.io/badge/-brightiortsor-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brightiortsor)](https://www.linkedin.com/in/brightiortsor) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1ca0f1?style=for-the-badge&logo=brightiortsor&logoColor=white&link=https://biortsor.live)](https://biortsor.live) [![Twitter Badge](https://img.shields.io/badge/-@TheFineUncle-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/TheFineUncle)](https://twitter.com/TheFineUncle) 
 
 Technologies:
 React.js | Vue.js | Javascript | | CSS | Tailwindcss | Material UI | SCSS | Bootstrap | HTML5 | Git | GitHub
